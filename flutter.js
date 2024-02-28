@@ -7,6 +7,8 @@ if (!_flutter) {
 }
 _flutter.loader = null;
 
+
+// add for test
 (function () {
   "use strict";
 
